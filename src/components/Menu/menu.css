@@ -1,0 +1,58 @@
+/* MENÚ */
+@font-face{
+    font-family: tw-cent;
+    src: url(../../assets/fonts/tw-cen-mt-condensed-3.ttf);
+}
+
+@font-face{
+    font-family: segoe;
+    src: url(../../assets/fonts/segoe-script-bold.ttf);
+}
+
+#fondo-menu{
+    background-color: #F8F9FA;
+    height: 125px;
+    font-family: tw-cent;
+}
+
+#main_nav{
+    font-family: tw-cent;
+}
+
+a{
+    color: #2B3381;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    color: #0A1151;
+    background-color:   #FB540063;
+    text-decoration: underline;
+}
+
+button{
+    color: #2B3381;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+button:hover {
+    color: #0A1151;
+    background-color:   #FB540063;
+    text-decoration: underline;
+}
+
+.navbar-toggler{
+    border: 1px solid transparent;
+}
+
+.navbar-brand{
+    width: 300px;
+}
+
+.sticky-top{
+    height: 125px;
+    font-size: 1.7em;
+}

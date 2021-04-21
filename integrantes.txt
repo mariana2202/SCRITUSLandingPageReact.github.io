@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+Ficha: 2068874.
+
+Nombre del proyecto: SCRITUS-Landing Page.
+
+Integrantes: 
+- Mariana Aristizábal Gutiérrez.
+=======
+Ficha: 2068874.
+
+Nombre del proyecto: SCRITUS-Landing Page.
+
+Integrantes: 
+- Mariana Aristizábal Gutiérrez.
+>>>>>>> 56136a7cf38d59e89863fd91f1abd98cfbba5578
